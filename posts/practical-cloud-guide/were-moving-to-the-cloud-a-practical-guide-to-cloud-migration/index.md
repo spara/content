@@ -50,5 +50,4 @@ The Practical Guide to Cloud Migration address these topics:
 
 ## What’s next
 
-To start your journey, we’ll start with deploying web applications in Windows Server 2022 and Linux. These tutorials demonstrate how to create a cloud instance of a server. In addition, you will configure server networking and software and deploy applications using a script to automate the process.  Start your journey<add link to first tutorial>.
-
+To start your journey, we’ll start with deploying web applications in Windows Server 2022 and Linux. These tutorials demonstrate how to create a cloud instance of a server. In addition, you will configure server networking and software and deploy applications using a script to automate the process.  Start your journey with the first tutorial [Deploy an ASP.NET Core Application on Windows Server with AWS Lightsail](https://www.buildon.aws/posts/deploy-an-asp-net-core-application-on-windows-server-with-aws-lightsail/).
